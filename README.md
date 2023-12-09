@@ -22,4 +22,5 @@ Builded a Blog Application where -
    - SPRING TOOL SUITE IDE.
    - SWAGGER for API DOCUMENTATION.
    - AMAZON WEB SERVICES (AWS) for DEPLOYMENT.
+4. HOSTED ON AWS SERVER : http://blog-env.eba-upp5mipn.eu-north-1.elasticbeanstalk.com/swagger-ui/index.html
    
