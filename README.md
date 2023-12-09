@@ -21,6 +21,6 @@ Builded a Blog Application where -
    - MYSQL DATABASE, POSTMAN REST CLIENT, APACHE TOMCAT.
    - SPRING TOOL SUITE IDE.
    - SWAGGER for API DOCUMENTATION.
-   - AMAZON WEB SERVICES (AWS) for DEPLOYMENT.
+   - AMAZON WEB SERVICES (AWS)-EC2,RDS,ELASTIC BEANSTALK for DEPLOYMENT.
 4. HOSTED ON AWS SERVER : http://blog-env.eba-upp5mipn.eu-north-1.elasticbeanstalk.com/swagger-ui/index.html
    
