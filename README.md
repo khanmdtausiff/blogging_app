@@ -11,7 +11,7 @@ Builded a Blog Application where -
   --> POST API includes PAGINATION & SORTING.
   --> Proper User Input VALIDATION Handling.
   --> Proper EXCEPTION HANDLING.
-  --> ROLE BASED AUTHENTICATION where 2 ADMIN has some special access & NORMAL USER has general access.
+  --> ROLE BASED AUTHENTICATION where 2 roles are created... ADMIN has some special access & NORMAL USER has general access.
   --> SPRING SECURITY - JWT BASED AUTHENTICATION.
   --> DOCUMENTED all REST APIS using SWAGGER so that consumers can easily understand.
   --> DEPLOYED this backend application on AWS(AMAZON WEB SERVICES) CLOUD.
